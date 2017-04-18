@@ -1,0 +1,12 @@
+.strengthLevelColorGreen{
+  color: green;
+}
+.strengthLevelColorYellow{
+  color: yellow;
+}
+.strengthLevelColorRed{
+  color: red;
+}
+#powerUpOptions{
+  display: none;
+}
